@@ -1,6 +1,7 @@
 # Drum Kit Web Application
 
 This is a simple Drum Kit web application that allows users to play drum sounds by either clicking on buttons or pressing corresponding keys on the keyboard. Each button and key is associated with a different drum sound and changes color when pressed.
+You can checkout the website at [DrumKit](https://drumkit0025.netlify.app)
 
 ## Features
 
